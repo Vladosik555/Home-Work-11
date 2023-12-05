@@ -1,0 +1,7 @@
+C:\Users\Владислав\Desktop\Homework №11\HOMEWORK №11\Тумаков 14\bin\Debug\Тумаков 14.exe.config
+C:\Users\Владислав\Desktop\Homework №11\HOMEWORK №11\Тумаков 14\bin\Debug\Тумаков 14.exe
+C:\Users\Владислав\Desktop\Homework №11\HOMEWORK №11\Тумаков 14\bin\Debug\Тумаков 14.pdb
+C:\Users\Владислав\Desktop\Homework №11\HOMEWORK №11\Тумаков 14\obj\Debug\Тумаков 14.csproj.AssemblyReference.cache
+C:\Users\Владислав\Desktop\Homework №11\HOMEWORK №11\Тумаков 14\obj\Debug\Тумаков 14.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Desktop\Homework №11\HOMEWORK №11\Тумаков 14\obj\Debug\Тумаков 14.exe
+C:\Users\Владислав\Desktop\Homework №11\HOMEWORK №11\Тумаков 14\obj\Debug\Тумаков 14.pdb
